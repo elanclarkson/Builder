@@ -11,7 +11,7 @@
     "require": {
         "php": ">=7.1.3",
         "doctrine/dbal": "^2.5",
-        "illuminate/support": "^5.7",
+        "illuminate/support": "^6.0",
         "grafite/crudmaker": "^1.4",
         "grafite/formmaker": "^1.3",
         "grafite/crypto": "~1.0"
